@@ -11,13 +11,13 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Description
   This application allows you to save notes with a title and plain text. The Note Taker app makes creating, viewing, and deleting notes.
-## Heroku Link
+## Heroku 
 [Note Taker App](https://secure-temple-27140.herokuapp.com/)
 ## Screenshot
 ![Note-Taker](./src/gif_1628480140.GIF)
 ## Table of Contents
 - [Description](#description)
-- [Heroku Link](#Heroku Link)
+- [Heroku Link](#Heroku)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Languages](#languages)
