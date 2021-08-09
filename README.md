@@ -39,6 +39,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Contributing
   ChunYu Chang
 ## Reference
+  Delete Function is reference from:
   https://github.com/kara-krzystan/note-taker <br />
   Class Moudles <br />
   https://github.com/mr91217/zookeepr<br />
