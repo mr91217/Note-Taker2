@@ -17,7 +17,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ![Note-Taker](./src/gif_1628480140.GIF)
 ## Table of Contents
 - [Description](#description)
-- [Heroku Link](#Heroku)
+- [Heroku Link](#Heroku Link)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Languages](#languages)
